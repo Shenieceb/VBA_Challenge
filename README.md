@@ -8,7 +8,9 @@ Inside the new repository that you just created, add any VBA files that you use 
 
 The code below was used for VBA scripting
 
+
 Sub QuarterlyStockAnalysis()
+
     ' Loop through all worksheets in the workbook
     For Each ws In ThisWorkbook.Worksheets
                     
